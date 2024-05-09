@@ -456,15 +456,4 @@ footer p {
       margin-right: 0; /* Remove a margem direita do último item */
     }
 
-    .modalidade {
-      width: 100%; /* Ocupa toda a largura disponível */
-      margin: 0 auto 10px; /* Centraliza horizontalmente e remove a margem na parte inferior */
-      padding: 20px; /* Adiciona padding para garantir espaço entre o conteúdo e as bordas */
-    }
-
-    .tratamentos-section .tratamento {
-      width: 90%; /* Reduz a largura para garantir espaço suficiente */
-      margin: 0 auto 20px; /* Centraliza horizontalmente e adiciona margem na parte inferior */
-      display: block; /* Altera para bloco para que fiquem um abaixo do outro */
-    }
 }
