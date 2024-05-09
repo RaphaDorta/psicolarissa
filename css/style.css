@@ -1,7 +1,5 @@
 * {
     list-style: none;
-    margin: 0;
-    padding: 0;
 }
 
 hr {
@@ -19,6 +17,7 @@ header {
     padding: 20px;
     background-color: #fa8fb1; /* Cor de fundo do cabeçalho */
     color: #650E5C; /* Cor do texto */
+    
 }
 
 body {
