@@ -55,6 +55,12 @@ nav ul li a {
     text-decoration: none; /* Remove o sublinhado padrão */
     color: inherit; /* Herda a cor do texto do elemento pai */
     padding: 10px 20px;
+    display: inline-block; /* Torna o link um bloco */
+    border: 2px solid transparent; /* Borda sólida */
+    border-radius: 20px; /* Borda arredondada */
+    background-color: transparent; /* Cor de fundo transparente */
+    text-decoration: none; /* Remove o sublinhado */
+    transition: background-color 0.3s, color 0.3s; /* Transição suave */
 }
 
 a:hover {
