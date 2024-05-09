@@ -15,7 +15,7 @@ header {
     align-items: center;
     margin: 0;
     padding: 20px;
-    background-color: #fa8fb1; /* Cor de fundo do cabeçalho */
+    background-color: #FFEBFE; /* Cor de fundo do cabeçalho */
     color: #650E5C; /* Cor do texto */
     
 }
@@ -228,7 +228,7 @@ button:hover {
 
 footer {
     text-align: center;
-    background-color: #fa8fb1; /* Cor de fundo do cabeçalho */
+    background-color: #FFEBFE; /* Cor de fundo do cabeçalho */
     padding: 20px; /* Espaçamento interno opcional */
 }
 
