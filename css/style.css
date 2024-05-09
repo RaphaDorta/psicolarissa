@@ -54,6 +54,7 @@ nav ul li:last-child {
 nav ul li a {
     text-decoration: none; /* Remove o sublinhado padrão */
     color: inherit; /* Herda a cor do texto do elemento pai */
+    padding: 10px 20px;
 }
 
 a:hover {
